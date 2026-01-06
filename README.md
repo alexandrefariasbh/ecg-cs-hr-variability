@@ -42,7 +42,7 @@ modifications, to ensure fair comparison.
 ## Data Availability
 
 ECG signals are generated using the HS15 ECG simulator and publicly available
-datasets (MIT-BIH Arrhythmia Database).
+datasets (MIT-BIH Arrhythmia Database - https://physionet.org/content/mitdb/).
 
 Due to licensing restrictions, raw ECG signals are **not redistributed** in
 this repository. All scripts required to reproduce the experiments and
