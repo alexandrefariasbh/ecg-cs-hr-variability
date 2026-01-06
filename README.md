@@ -57,3 +57,24 @@ evaluation pipeline are provided.
 - Wavelet Toolbox
 
 ---
+
+## Citation
+If you use this Data in your research, please cite the associated article.
+
+Plain text citation
+
+Veiga, T. P., Paiva, V. A., and Farias, A. R.,
+Comparative Analysis of the Quality of ECG Signal Reconstruction by
+Compressed Sensing at Different Heart Rates,
+Biomedical Signal Processing and Control, 2025.
+
+BibTeX citation
+
+@article{Veiga2025ECGCS,
+  title   = {Comparative Analysis of the Quality of ECG Signal Reconstruction by Compressed Sensing at Different Heart Rates},
+  author  = {Veiga, Thais de Paula and Paiva, Victor Araujo de and Farias, Alexandre Rodrigues},
+  journal = {Biomedical Signal Processing and Control},
+  year    = {2025}
+}
+
+
