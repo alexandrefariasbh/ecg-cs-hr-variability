@@ -57,7 +57,3 @@ evaluation pipeline are provided.
 - Wavelet Toolbox
 
 ---
-
-## How to Run
-
-1. Configure experimental parameters in:
